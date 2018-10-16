@@ -1,0 +1,19 @@
+{
+  "pages": [
+		"pages/index/main",
+    "pages/login/main",
+    "pages/my/main",
+    "pages/qrcode/main",
+    "pages/integral/main",
+    "pages/card/main",
+    "pages/bind_success/main",
+    "pages/team/main",
+    "pages/remarks/main",
+    "pages/logs/main"  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "云笃笃",
+    "navigationBarTextStyle": "black"
+  }
+}
